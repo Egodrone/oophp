@@ -1,0 +1,49 @@
+html,
+body {
+    font-family: "Helvetica Neue", Helvetica, Ariel, sans-serif;
+
+    /*
+    overflow-y: auto;
+    */
+    background-color: #e6e6fa;
+}
+
+body {
+    background-color: #e6e6fa;
+    padding-left: 30%;
+}
+
+/*
+#formId {
+
+}
+*/
+
+#passDes {
+    height: 28px;
+    width: 100px;
+    border-radius: 8px;
+    border: 2px solid red;
+    background-color: lightSteelBlue;
+    color: black;
+}
+
+#buttonHome2 {
+    color: white;
+    background-color: #006698;
+    border-radius: 8px;
+    cursor: pointer;
+    height: 30px;
+}
+
+#buttonHome2:hover {
+    background-color: lightSteelBlue;
+}
+
+#buttonHome2f {
+    color: white;
+    background-color: #006698;
+    border-radius: 8px;
+    cursor: not-allowed;
+    height: 30px;
+}
